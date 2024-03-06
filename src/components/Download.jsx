@@ -4,7 +4,7 @@ import * as XLSX from "xlsx";
 import jsPDF from "jspdf";
 import "jspdf-autotable";
 
-const downloadUrl = `https://dev101.broadnet.me:9090/download/pricing-list`;
+const downloadUrl = `xyz`;
 
 const Download = () => {
   const [accessToken, setAccessToken] = useState(null);

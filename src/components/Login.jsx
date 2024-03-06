@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
-const endpoint = `https://Dev101.broadnet.me:9090/login/jwt`;
+const endpoint = `abc`;
 
 const Login = () => {
   const [username, setUsername] = useState("");
